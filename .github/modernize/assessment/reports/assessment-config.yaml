@@ -1,0 +1,6 @@
+analysisCoverage: issue-only
+dotnet:
+  assessmentDomains:
+    - cloud-readiness
+  targetComputeServices:
+    - Any
