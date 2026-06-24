@@ -1,0 +1,15 @@
+{
+  "name": "zava-bank-playwright-tests",
+  "version": "1.0.0",
+  "description": "Playwright integration tests for Zava Bank legacy banking system",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:report": "playwright show-report",
+    "install:browsers": "playwright install chromium"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "typescript": "^5.4.0"
+  }
+}

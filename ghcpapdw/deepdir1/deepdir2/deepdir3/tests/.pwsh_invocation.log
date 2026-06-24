@@ -1,0 +1,36 @@
+INVOKED: exe=pwsh.exe args=[-NoProfile -NonInteractive -Command Write-Output ('Version=' + $PSVersionTable.PSVersion.ToString())]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NonInteractive -Command Write-Output ('Version=' + $PSVersionTable.PSVersion.ToString())]
+Exit error: <nil>
+INVOKED: exe=pwsh.exe args=[-NoProfile -NonInteractive -Command Write-Output ('Version=' + $PSVersionTable.PSVersion.ToString())]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NonInteractive -Command Write-Output ('Version=' + $PSVersionTable.PSVersion.ToString())]
+Exit error: <nil>
+INVOKED: exe=pwsh.exe args=[-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Exit error: exit status 0xc000013a
+INVOKED: exe=pwsh.exe args=[-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Exit error: exit status 0xc000013a
+INVOKED: exe=pwsh.exe args=[-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Exit error: exit status 0xc000013a
+INVOKED: exe=pwsh.exe args=[-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Exit error: exit status 0xc000013a
+INVOKED: exe=pwsh.exe args=[-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Exit error: exit status 0xc000013a
+INVOKED: exe=pwsh.exe args=[-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Exit error: exit status 0xc000013a
+INVOKED: exe=pwsh.exe args=[-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Exit error: exit status 0xc000013a
+INVOKED: exe=pwsh.exe args=[-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Exit error: exit status 0xc000013a
+INVOKED: exe=pwsh.exe args=[-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+INVOKED: exe=pwsh.exe args=[-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Proxying to: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe with args: [-NoProfile -NoLogo -NoExit -Command try { Set-PSReadLineOption -PredictionSource None -BellStyle None -HistorySaveStyle SaveNothing -MaximumHistoryCount 0 } catch { try { Set-PSReadLineOption -HistorySaveStyle SaveNothing } catch {} }]
+Exit error: exit status 0xc000013a
+Exit error: exit status 0xc000013a

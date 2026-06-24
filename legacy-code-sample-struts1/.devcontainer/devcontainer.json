@@ -1,0 +1,17 @@
+{
+    "name": "Struts 1 Java 1.5",
+    "dockerFile": "Dockerfile",
+    "runArgs": [
+        "--init"
+    ],
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "redhat.java"
+            ]
+        }
+    },
+    "postCreateCommand": "mvn clean package",
+    "remoteUser": "vscode"
+}

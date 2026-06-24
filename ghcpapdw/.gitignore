@@ -1,0 +1,89 @@
+# Squad: ignore runtime state (logs, inbox, sessions)
+.squad/orchestration-log/
+.squad/log/
+.squad/decisions/inbox/
+.squad/sessions/
+.squad/.scratch/
+# Squad: SubSquad activation file (local to this machine)
+.squad-workstream
+
+# ============================================================
+# .NET (Mono 6.12 / xbuild / msbuild — ASP.NET Web Forms)
+# ============================================================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+packages/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.nupkg
+*.snupkg
+*.pidb
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# ============================================================
+# Java (Gradle + Tomcat WAR deployment)
+# ============================================================
+.gradle/
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+# ============================================================
+# Node.js / Playwright (tests/)
+# ============================================================
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+*.tsbuildinfo
+
+# ============================================================
+# Docker
+# ============================================================
+.env
+.env.*
+!.env.example
+docker-compose.override.yml
+
+# ============================================================
+# IDE / Editor
+# ============================================================
+.vs/
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# ============================================================
+# OS
+# ============================================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db

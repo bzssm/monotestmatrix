@@ -1,0 +1,5 @@
+micronaut:
+    application:
+        name: showmyjvm-micronaut
+    server:
+        port: ${PORT:8080}
