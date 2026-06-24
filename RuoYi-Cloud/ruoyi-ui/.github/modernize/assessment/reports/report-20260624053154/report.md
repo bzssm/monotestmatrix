@@ -1,4 +1,4 @@
-# report-20260624053154
+# JavaScript/TypeScript Dependency Assessment Report (20260624053154)
 
 JavaScript/TypeScript Dependency Assessment
 
